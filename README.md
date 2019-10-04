@@ -1,5 +1,4 @@
 # Papers
-Hello!
 This project contains a collection of useful papers.
 
 # Membership Inference Attacks:
